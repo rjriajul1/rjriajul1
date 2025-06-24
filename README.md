@@ -1,4 +1,4 @@
-### Hi there 👋, # 👋 Hi, I'm Riajul Islam
+### Hi there 👋, # 👋 Hi, I'm Riajul Karim
 #### ### 💻 Junior Web Developer | MERN Stack Enthusiast
 <img src="https://github.com/rjriajul1/rjriajul1/blob/main/IMG20241101091357.jpg" height="400px" width="100%" />
 
