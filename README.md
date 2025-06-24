@@ -1,6 +1,6 @@
 ### Hi there 👋, # 👋 Hi, I'm Riajul Islam
 #### ### 💻 Junior Web Developer | MERN Stack Enthusiast
-<img src="https://github.com/rjriajul1/rjriajul1/blob/main/IMG20241101091357.jpg" height="100px" width="100%" />
+<img src="https://github.com/rjriajul1/rjriajul1/blob/main/IMG20241101091357.jpg" height="300px" width="100%" />
 
 ## 🧠 About Me
 I'm passionate about web development. Currently exploring **Next.js** and building modern responsive web apps.
