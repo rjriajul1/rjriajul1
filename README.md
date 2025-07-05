@@ -15,12 +15,12 @@ I'm passionate about web development. Currently exploring **Next.js** and buildi
 
 ## socal link
 
-<a href="https://facebook.com/yourusername" target="_blank" >
-  <img style="margin-buttom: "10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
+<a href="https://www.facebook.com/share/15sAk5BdUC/" target="_blank" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername" target="_blank">
-  <img style="margin-buttom: "10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+<a href="https://www.linkedin.com/in/riajul-karim" target="_blank">
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 <br/>
 
