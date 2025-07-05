@@ -14,7 +14,6 @@ I'm passionate about web development. Currently exploring **Next.js** and buildi
 - 💬 Ask me about web development 
 
 ## socal link
-## Connect with me
 
 <a href="https://facebook.com/yourusername" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30"/>
@@ -23,6 +22,7 @@ I'm passionate about web development. Currently exploring **Next.js** and buildi
 <a href="https://linkedin.com/in/yourusername" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
+<br/>
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
