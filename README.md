@@ -1,6 +1,6 @@
 ### Hi there 👋, # 👋 Hi, I'm Riajul Karim
 #### ### 💻 Junior Web Developer | MERN Stack Enthusiast
-<img src="https://ibb.co/ycdCmcys" height="400px" width="100%" />
+<img src="https://i.ibb.co/Kpbgcpqy/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" height="400px" width="100%" />
 
 ## 🧠 About Me
 I'm passionate about web development. Currently exploring **Next.js** and building modern responsive web apps.
